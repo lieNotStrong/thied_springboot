@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: dev
+
+thied_springboot:
+  imageHost: http://img.neuedu.com/
+
+
+
+#  pagehelper.helper-dialect=mysql
+#  pagehelper.reasonable=true
+#  pagehelper.support-methods-arguments=true
+#  pagehelper.params=countSql
